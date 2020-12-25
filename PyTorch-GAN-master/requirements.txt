@@ -5,4 +5,4 @@ numpy
 scipy
 pillow
 urllib3
-scikit-imag
+scikit-image
